@@ -1,4 +1,4 @@
-- 👋🏻 Hi, I’m @biodean
+- 👋🏻 Hi, I’m [@biodean](https://github.com/biodean)
 - ⛰ I’m interested in numerical ecology
 - 🐛 I’m currently improving my R skills
 - 🌍 I’m looking to collaborate on environmental data analysis
