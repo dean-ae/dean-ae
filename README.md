@@ -1,8 +1,7 @@
 - 👋🏻 Hi, I’m [@biodean](https://github.com/biodean)
-- ⛰ I’m interested in soil ecology
-- 🐛 I’m currently doing my masters in biological science
+- ⛰ I’m interested in ecosystem functioning and sustainable agriculture
+- 🐛 I’m currently researching soil food webs for my MSc in biological sciences
 - 🐝 Contact me via Instagram: [@bio_dean_](https://www.instagram.com/bio_dean_/)
-- 📷 See my photos on Unsplash: [@ecobean](https://unsplash.com/@ecobean)
 
 <!---
 biodean/biodean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
