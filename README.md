@@ -1,3 +1,8 @@
+---
+tags:
+aliases:
+  - dean-ae
+---
 - 👋🏻 Hi, I’m [@dean-ae](https://github.com/dean-ae).
 - 🪱 I'm a biologist with a focus on soil ecology and entomology.
 - 🏝️ I'm currently researching tropical Collembola for my masters.
