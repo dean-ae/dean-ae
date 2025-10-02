@@ -1,5 +1,5 @@
 
-<center>Dean A. Erasmus</center>
+<center><bold>Dean A. Erasmus</bold></center><br>
 
 Biologist with a focus on soil ecology and entomology.
 
